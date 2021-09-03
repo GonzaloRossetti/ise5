@@ -6,8 +6,8 @@
 
 ## Materia: Adquisición de Datos
 
-![Foto 1](src/imagen1.jpg)
+![Foto 1](imagen1.jpg)
 
-![Foto 2](src/imagen2.jpg)
+![Foto 2](imagen2.jpg)
 
-![Foto 3](src/imagen3.jpg)
+![Foto 3](imagen3.jpg)
